@@ -1,6 +1,6 @@
 # Menu class
 
-class Menu
+class Menu < Display
 
   def self.coffee()
     puts "Coffee"
