@@ -4,6 +4,10 @@ require 'display'
 
 class Menu < Display
 
+  def initialize
+    # TODO
+  end
+
   def self.coffee()
     puts "Coffee"
   end
