@@ -1,5 +1,7 @@
 # Menu class
 
+require 'display'
+
 class Menu < Display
 
   def self.coffee()
