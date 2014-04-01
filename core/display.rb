@@ -1,6 +1,7 @@
 # Display class
 
 class Display
+
   def initiliaze
     # Implement this
   end
@@ -11,4 +12,6 @@ class Display
 
   def self.balance(balance)
     puts "Balance: " + balance
+  end
+
 end
