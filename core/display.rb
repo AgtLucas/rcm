@@ -18,5 +18,8 @@ class Display
     puts product + "out of stock!"
   end
 
+  def self.no_change
+    puts "No change. Sorry"
+  end
 
 end
