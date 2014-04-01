@@ -14,4 +14,9 @@ class Display
     puts "Balance: " + balance
   end
 
+  def self.out_of_stock(product)
+    puts product + "out of stock!"
+  end
+
+
 end
