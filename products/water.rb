@@ -1,5 +1,5 @@
 # Water
 
-class Water
+class Water < Products
 
 end
