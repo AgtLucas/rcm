@@ -1,0 +1,5 @@
+# Coffee
+
+class Coffee
+
+end
