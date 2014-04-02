@@ -1,0 +1,5 @@
+# Products
+
+class Products
+
+end
