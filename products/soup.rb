@@ -1,0 +1,5 @@
+# Soup
+
+class Soup
+
+end
