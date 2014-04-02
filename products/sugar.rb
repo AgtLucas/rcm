@@ -1,5 +1,5 @@
 # Sugar
 
-class Sugar
+class Sugar < Products
 
 end
