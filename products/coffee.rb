@@ -1,5 +1,5 @@
 # Coffee
 
-class Coffee
+class Coffee < Products
 
 end
