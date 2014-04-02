@@ -1,5 +1,5 @@
 # Soup
 
-class Soup
+class Soup < Products
 
 end
