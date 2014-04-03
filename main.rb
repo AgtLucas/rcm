@@ -1,2 +1,2 @@
 # Core
-require 'core'
+require './core'
