@@ -8,19 +8,19 @@ class Menu < Display
     # TODO
   end
 
-  def self.coffee()
+  def coffee()
     puts "Coffee"
   end
 
-  def self.coffeeWithSugar()
+  def coffeeWithSugar()
     puts "Coffee with sugar"
   end
 
-  def self.coffeeWithCream()
+  def coffeeWithCream()
     puts "Coffee with cream"
   end
 
-  def self.coffeeWithCreamAndSugar()
+  def coffeeWithCreamAndSugar()
     puts "Coffee with cream and sugar"
   end
 
