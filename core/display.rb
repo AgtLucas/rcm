@@ -6,19 +6,19 @@ class Display
     # Implement this
   end
 
-  def self.price(price)
+  def price(price)
     puts "Price: " + price
   end
 
-  def self.balance(balance)
+  def balance(balance)
     puts "Balance: " + balance
   end
 
-  def self.out_of_stock(product)
+  def out_of_stock(product)
     puts product + "out of stock!"
   end
 
-  def self.no_change
+  def no_change
     puts "No change. Sorry."
   end
 
