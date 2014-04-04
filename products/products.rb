@@ -4,7 +4,7 @@ class Products
 
   attr_accessor: :name, :amount
 
-  def initialize(name)
+  def initialize(name, amount)
     @name = name
   end
 
